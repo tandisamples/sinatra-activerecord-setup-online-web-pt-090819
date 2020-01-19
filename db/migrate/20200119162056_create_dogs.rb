@@ -9,3 +9,4 @@ class CreateDogs < ActiveRecord::Migration[5.2]
   drop_table :dogs
   end
 end
+end
